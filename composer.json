@@ -1,6 +1,7 @@
 {
-    "name": "exam/breeze-eam",
+    "name": "exam/breeze-exam",
     "type": "project",
+    "license": "MIT",
     "description": "Laravel Breeze project skeleton with admin panel",
     "require": {
         "php": "^8.0",
